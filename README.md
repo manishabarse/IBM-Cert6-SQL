@@ -25,6 +25,8 @@ The student_course_analysis code is a Python script that analyzes data from a hy
 6. **Additional Features**: Implement additional features such as sorting, filtering, and grouping.
 
 
+
+
 # IBM-Cert6-SQL-SQLite
 
 Used SQLite in the Jupyter Notebook to:
