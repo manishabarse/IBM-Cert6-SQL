@@ -1,11 +1,3 @@
-# IBM-Cert6-SQL-SQLite
-
-Used SQLite in the Jupyter Notebook to:
-
- - Understand three Chicago datasets
- - Load the three datasets into three tables in a SQLite database
- - Execute SQL queries to answer assignment questions
-
 # Student Course Analysis
 
 The student_course_analysis code is a Python script that analyzes data from a hypothetical student and course database. This project analyzes students and courses data stored in a SQLite database. The database contains two tables: `students` and `courses`, which store information about students and the courses they are enrolled in, respectively.
@@ -33,3 +25,10 @@ The student_course_analysis code is a Python script that analyzes data from a hy
 6. **Additional Features**: Implement additional features such as sorting, filtering, and grouping.
 
 
+# IBM-Cert6-SQL-SQLite
+
+Used SQLite in the Jupyter Notebook to:
+
+- Understand three Chicago datasets
+- Load the three datasets into three tables in a SQLite database
+- Execute SQL queries to answer assignment questions
